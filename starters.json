@@ -1,0 +1,82 @@
+ [
+    {
+      "id": 1,
+      "name": "Garlic Bread",
+      "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2023/02/Garlic-Bread-4.jpg",
+      "price": 4.99,
+      "rating": 4.5,
+      "hotelName": "Delicious Bites"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Wings",
+      "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2014/09/Baked-Chicken-Wings-3.jpg",
+      "price": 9.99,
+      "rating": 4.2,
+      "hotelName": "Spice Garden"
+    },
+    {
+      "id": 3,
+      "name": "Cheese Sticks",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2023/05/Cheese-Sticks-SQ.jpg",
+      "price": 7.99,
+      "rating": 4.8,
+      "hotelName": "Tasty Treats"
+    },
+    {
+      "id": 4,
+      "name": "Vegetable Spring Rolls",
+      "image": "https://www.thecookingcollective.com.au/wp-content/uploads/2022/08/Vegetable-Spring-Rolls-2-1.jpg",
+      "price": 6.99,
+      "rating": 4.6,
+      "hotelName": "Fresh Bites"
+    },
+    {
+      "id": 5,
+      "name": "Samosa",
+      "image": "https://dwellbymichelle.com/wp-content/uploads/2021/03/DWELL-Samosa-Recipe.jpeg",
+      "price": 3.99,
+      "rating": 4.4,
+      "hotelName": "Spice Garden"
+    },
+    {
+      "id": 6,
+      "name": "Onion Rings",
+      "image": "https://thecozycook.com/wp-content/uploads/2020/07/Onion-Rings-Recipe-f.jpg",
+      "price": 5.99,
+      "rating": 4.7,
+      "hotelName": "Tasty Treats"
+    },
+    {
+      "id": 7,
+      "name": "Mozzarella Sticks",
+      "image": "https://sweetsimplevegan.com/wp-content/uploads/2022/02/Spicy_Dairy_Free_Mozzarella_Sticks_sweet_simple_vegan_3.jpg",
+      "price": 8.99,
+      "rating": 4.3,
+      "hotelName": "Delicious Bites"
+    },
+    {
+      "id": 8,
+      "name": "Prawn Tempura",
+      "image": "https://simplyhomecooked.com/wp-content/uploads/2019/12/shrimp-tempura-recipe-8.jpg",
+      "price": 10.99,
+      "rating": 4.9,
+      "hotelName": "Sushi Heaven"
+    },
+    {
+      "id": 9,
+      "name": "Bruschetta",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/bruschetta-index-645d03e6f174d.jpg?crop=0.502xw:1.00xh;0.157xw,0&resize=1200:*",
+      "price": 7.99,
+      "rating": 4.1,
+      "hotelName": "Fresh Bites"
+    },
+    {
+      "id": 10,
+      "name": "Spinach and Artichoke Dip",
+      "image": "https://s23209.pcdn.co/wp-content/uploads/2022/08/220602_DD_Spinach-Artichoke-Dip_140-1.jpg",
+      "price": 9.99,
+      "rating": 4.6,
+      "hotelName": "Tasty Treats"
+    }
+  ]

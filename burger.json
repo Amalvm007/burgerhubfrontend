@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Cheeseburger",
+      "image": "https://www.modernhoney.com/wp-content/uploads/2022/05/Double-Double-Cheeseburger-with-Fries-Recipe-scaled.jpg",
+      "price": 9.99,
+      "rating": 4.5,
+      "hotelName": "Burger Delight"
+    },
+    {
+      "id": 2,
+      "name": "BBQ Bacon Burger",
+      "image": "https://s3.amazonaws.com/com.commerceowl.prod/16x9/L/21f61bc3-720d-430a-9261-c485de73fa08.jpeg",
+      "price": 11.99,
+      "rating": 4.2,
+      "hotelName": "Burger Palace"
+    },
+    {
+      "id": 3,
+      "name": "Mushroom Swiss Burger",
+      "image": "https://bestbeefrecipes.com/wp-content/uploads/2023/06/mushroom-swiss-burger-featured.jpg",
+      "price": 10.99,
+      "rating": 4.8,
+      "hotelName": "Burger Delight"
+    },
+    {
+      "id": 4,
+      "name": "Double Bacon Burger",
+      "image": "https://frontporchpantry.com/cdn/shop/products/baconcheeseburger_600x.png?v=1630093666",
+      "price": 12.99,
+      "rating": 4.6,
+      "hotelName": "Burger Spot"
+    },
+    {
+      "id": 5,
+      "name": "Veggie Burger",
+      "image": "https://cookieandkate.com/images/2013/05/best-veggie-burger-recipe-3.jpg",
+      "price": 8.99,
+      "rating": 4.4,
+      "hotelName": "Burger Palace"
+    },
+    {
+      "id": 6,
+      "name": "Gourmet Burger",
+      "image": "https://resize.img.allw.mn/filters:format(webp)/filters:quality(70)/content/n5/ef/uiv1btjh554901b15b71c952722940_600x900.jpg",
+      "price": 13.99,
+      "rating": 4.7,
+      "hotelName": "Burger Delight"
+    },
+    {
+      "id": 7,
+      "name": "Bacon Avocado Burger",
+      "image": "https://foolproofliving.com/wp-content/uploads/2022/07/Avocado-Bacon-Burger.jpg",
+      "price": 12.99,
+      "rating": 4.3,
+      "hotelName": "Burger Spot"
+    },
+    {
+      "id": 8,
+      "name": "Spicy Jalapeno Burger",
+      "image": "https://amazingribs.com/wp-content/uploads/2023/02/jalapeno-bacon-cheeseburger.jpg",
+      "price": 9.99,
+      "rating": 4.9,
+      "hotelName": "Burger Palace"
+    },
+    {
+      "id": 9,
+      "name": "Mega Cheeseburger",
+      "image": "https://johnrieber.files.wordpress.com/2013/02/burgertripletriple8229rt.jpg",
+      "price": 14.99,
+      "rating": 4.1,
+      "hotelName": "Burger Delight"
+    },
+    {
+      "id": 10,
+      "name": "California Burger",
+      "image": "https://howtofeedaloon.com/wp-content/uploads/2020/09/cali-burger-instagram-1.jpg",
+      "price": 11.99,
+      "rating": 4.6,
+      "hotelName": "Burger Spot"
+    }
+  ]

@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Club Sandwich",
+      "image": "https://www.jocooks.com/wp-content/uploads/2020/10/club-sandwich-1-9.jpg",
+      "price": 8.99,
+      "rating": 4.5,
+      "hotelName": "Sandwich Delight"
+    },
+    {
+      "id": 2,
+      "name": "BLT Sandwich",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2020/07/BLT-Sandwich-Recipe-4.jpg",
+      "price": 7.99,
+      "rating": 4.2,
+      "hotelName": "Sandwich Delight"
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian Panini",
+      "image": "https://static.toiimg.com/photo/75602152.cms",
+      "price": 9.99,
+      "rating": 4.8,
+      "hotelName": "Panini Express"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Avocado Sandwich",
+      "image": "https://static.toiimg.com/thumb/58856717.cms?width=1200&height=900",
+      "price": 10.99,
+      "rating": 4.6,
+      "hotelName": "Sandwich Delight"
+    },
+    {
+      "id": 5,
+      "name": "Turkey Cranberry Sandwich",
+      "image": "https://thenessykitchen.com/wp-content/uploads/2023/01/turkey-cranberry-sandwiches.jpg",
+      "price": 8.99,
+      "rating": 4.4,
+      "hotelName": "Sandwich Spot"
+    },
+    {
+      "id": 6,
+      "name": "Grilled Cheese Sandwich",
+      "image": "https://www.bhg.com/thmb/H6G2G-KzMaxmin4WJRYHZU4-oaQ=/1244x0/filters:no_upscale():strip_icc()/grilled-cheese-sandwiches-RU197054-0026ddec06634f3eb9b1a3649a114e3d.jpg",
+      "price": 6.99,
+      "rating": 4.7,
+      "hotelName": "Sandwich Spot"
+    },
+    {
+      "id": 7,
+      "name": "Tuna Salad Sandwich",
+      "image": "https://www.saltandlavender.com/wp-content/uploads/2021/07/best-tuna-salad-recipe-1.jpg",
+      "price": 7.99,
+      "rating": 4.3,
+      "hotelName": "Sandwich Delight"
+    },
+    {
+      "id": 8,
+      "name": "Roast Beef Sub",
+      "image": "https://bakeitwithlove.com/wp-content/uploads/2023/03/roast-beef-sandwich-h.jpg",
+      "price": 9.99,
+      "rating": 4.9,
+      "hotelName": "Subs Galore"
+    },
+    {
+      "id": 9,
+      "name": "Caprese Sandwich",
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2022/07/Caprese-Sandwich-008.jpg",
+      "price": 7.99,
+      "rating": 4.1,
+      "hotelName": "Panini Express"
+    },
+    {
+      "id": 10,
+      "name": "Egg Salad Sandwich",
+      "image": "https://www.seriouseats.com/thmb/OQt5Q6EmxcQ25nxiAjuuJ-y_zvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/the-best-egg-salad-recipe-hero-01_1-c43c237378d84a75ab5dc3f9b0bd1344.JPG",
+      "price": 6.99,
+      "rating": 4.6,
+      "hotelName": "Sandwich Spot"
+    },
+    {
+      "id": 11,
+      "name": " Salad Sandwich",
+      "image": "https://www.eatingwell.com/thmb/PiV8rvFo5byPlUhNkwmdJDj42tQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chickpea-salad-sandwich-d2d815f3ab95478b82012648ac8cccaf.jpg",
+      "price": 6.99,
+      "rating": 4.6,
+      "hotelName": "Sandwich Spot"
+    },
+    {
+      "id": 12,
+      "name": "Normal Sandwich",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/sandwich-recipes-swasthi.jpg",
+      "price": 6.99,
+      "rating": 4.6,
+      "hotelName": "Sandwich Spot"
+    }
+
+]

@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Chicken Shawarma",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/06/shutterstock_1339636625-1.jpg",
+      "price": 9.99,
+      "rating": 4.5,
+      "hotelName": "Shawarma Palace"
+    },
+    {
+      "id": 2,
+      "name": "Beef Shawarma",
+      "image": "https://littlespicejar.com/wp-content/uploads/2017/04/Beef-Shawarma-1-735x1103.jpg",
+      "price": 10.99,
+      "rating": 4.2,
+      "hotelName": "Shawarma Delight"
+    },
+    {
+      "id": 3,
+      "name": "Falafel Shawarma",
+      "image": "https://femina.wwmindia.com/content/2023/mar/ifalafelshawarma21679134111.jpeg",
+      "price": 8.99,
+      "rating": 4.8,
+      "hotelName": "Veggie Shawarma"
+    },
+    {
+      "id": 4,
+      "name": "Mixed Shawarma",
+      "image": "https://www.recipetineats.com/wp-content/uploads/2018/01/Lamb-Shawarma_4.jpg",
+      "price": 12.99,
+      "rating": 4.6,
+      "hotelName": "Shawarma Palace"
+    },
+    {
+      "id": 5,
+      "name": "Lamb Shawarma",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/55/dd/a2/lamb-shawarma-wrap.jpg",
+      "price": 11.99,
+      "rating": 4.4,
+      "hotelName": "Shawarma Delight"
+    },
+    {
+      "id": 6,
+      "name": "Vegetarian Shawarma",
+      "image": "https://minimalistbaker.com/wp-content/uploads/2015/08/AMAZING-30-minute-HEALTHY-Chickpea-Shawarma-Wraps-with-a-simple-Garlic-Dill-Sauce-An-easy-weeknight-vegan-plantbased-meal-healthy-recipe-mediterranean-minimalistbaker.jpg",
+      "price": 9.99,
+      "rating": 4.7,
+      "hotelName": "Veggie Shawarma"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Shawarma Wrap",
+      "image": "https://www.licious.in/blog/wp-content/uploads/2022/02/shutterstock_1339636625.jpg",
+      "price": 8.99,
+      "rating": 4.3,
+      "hotelName": "Shawarma Palace"
+    },
+    {
+      "id": 8,
+      "name": "Gyro Shawarma",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_nBZKs-RLMcA11W075UrTtrFHcDMQwgt_gA&usqp=CAU",
+      "price": 10.99,
+      "rating": 4.9,
+      "hotelName": "Shawarma Delight"
+    },
+    {
+      "id": 9,
+      "name": "Hummus Shawarma",
+      "image": "https://tastykitchen.com/recipes/wp-content/uploads/sites/2/2015/03/Shawarma-7-410x602.jpg",
+      "price": 7.99,
+      "rating": 4.1,
+      "hotelName": "Veggie Shawarma"
+    },
+    {
+      "id": 10,
+      "name": "Shawarma Platter",
+      "image": "https://img-global.cpcdn.com/recipes/048ef6c316d4ef4b/400x400cq70/photo.jpg",
+      "price": 12.99,
+      "rating": 4.6,
+      "hotelName": "Shawarma Palace"
+    }
+  ]

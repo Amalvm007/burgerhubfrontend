@@ -1,0 +1,36 @@
+.nav-item{
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.dropdown-menu {
+     background-color: #fff8ee;
+}
+
+.navbar {
+    background-color: #fff8ee;
+    
+   
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+.dropdown-item:hover{
+    background-color: #deddda;
+}
+.modal-body{
+    margin-left: 50px;
+    
+}
+.register{
+    text-decoration: none;
+    color: #1877f2;
+}
+.offcanvas-title{
+    color: #2a435d;
+}
+
+.offcanvas{
+    background-color: #f9f5ef;
+}

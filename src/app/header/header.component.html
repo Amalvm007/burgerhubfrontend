@@ -1,0 +1,47 @@
+ <!-- Navigation-->
+ <nav class="navbar navbar-expand-lg fixed-top ">
+    <div class="container px-4 px-lg-5">
+        <div class="col-lg-4"><a class="navbar-brand" routerLink="" ><i class="fa-solid fa-burger fa-beat-fade"></i>&nbsp; Burger Hub</a></div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul  class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                <li class="nav-item "><a class="nav-link active" aria-current="page" routerLink="">Home</a></li>
+                <li class="nav-item"><a class="nav-link" routerLink="about">About</a></li>
+                <li class="nav-item dropdown">
+                    <a  class="nav-link dropdown-toggle" id="navbarDropdown"  role="button" data-bs-toggle="dropdown" aria-expanded="false">Menu</a>
+                    <ul class="dropdown-menu " aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" routerLink="burger">Burger Menu</a></li>
+                        <li><a class="dropdown-item" routerLink="sandwich">Sandwich Menu</a></li>
+                        <li><a class="dropdown-item" routerLink="shawarma">Shawarma Menu</a></li>
+                        <li><a class="dropdown-item" routerLink="starters">Starters Menu</a></li>
+
+                    </ul>
+                </li>
+            </ul>
+            <div class="d-flex">
+                <button *ngIf="login" class="btn btn-outline-dark" routerLink="login" >
+                    
+                    Login
+                </button> &nbsp;&nbsp;
+                <a *ngIf="cart" class="btn btn-outline-dark" routerLink="cart" >
+                    
+                    <i class="fa-solid fa-cart-shopping"></i>
+                </a> &nbsp;&nbsp;
+
+                
+                &nbsp;&nbsp;
+                <button *ngIf="cart" class="btn btn-outline-dark" (click)="logout()" >
+                    
+                    Logout
+                </button> &nbsp;&nbsp;
+
+
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+
+
+
